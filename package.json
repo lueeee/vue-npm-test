@@ -2,7 +2,7 @@
 		"name": "vue-npm-test",
 		"version": "1.0.0",
 		"description": "my first npm app",
-		"main": "index.js",
+		"main": "dis/helloMsg.min.js",
 		"scripts": {
 				"test": "echo \"Error: no test specified\" && exit 1",
 				"start": "webpack-dev-server --hot --inline",
