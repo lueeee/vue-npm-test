@@ -1,8 +1,8 @@
 {
-		"name": "vue-npm-test",
+		"name": "dengbh",
 		"version": "1.0.0",
 		"description": "my first npm app",
-		"main": "dis/helloMsg.min.js",
+		"main": "dist/helloMsg.min.js",
 		"scripts": {
 				"test": "echo \"Error: no test specified\" && exit 1",
 				"start": "webpack-dev-server --hot --inline",
